@@ -92,4 +92,4 @@ El comando con `sort` simula la fase de *shuffle & sort* de MapReduce.
 
 ## Autor
 
-Tu nombre – Arquitectura, Seguimiento 2
+Erik Garcia Gonzalez Seguimiento 2
